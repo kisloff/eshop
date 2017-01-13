@@ -1,0 +1,1454 @@
+2017-01-10 13:57:59,375 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-10 13:57:59,418 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-10 13:57:59,420 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-10 13:57:59,562 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 13:57:59,563 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-10 15:09:32,732 [INFO ][080-exec-3][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-10 15:09:32,755 [INFO ][080-exec-3][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-10 15:09:32,774 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 15:09:32,777 [INFO ][080-exec-3][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-10 18:37:48,869 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 18:49:16,942 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 18:49:33,407 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 19:02:17,019 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-10 19:02:17,056 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-10 19:02:17,057 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-10 19:02:17,212 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-10 19:02:17,212 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 09:52:44,436 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 09:52:44,475 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 09:52:44,476 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 09:52:44,608 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 09:52:44,609 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 09:57:09,337 [INFO ][80-exec-10][   model.DAO.UserDAO] - User admin is admin
+2017-01-11 09:57:09,436 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 09:57:09,436 [INFO ][80-exec-10][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-11 10:03:23,519 [INFO ][080-exec-6][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 10:03:23,563 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 10:03:23,564 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 10:03:23,708 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 10:03:23,709 [INFO ][080-exec-6][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 10:05:03,141 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 10:05:03,175 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 10:05:03,176 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 10:05:03,305 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 10:05:03,306 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 10:05:40,786 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 10:05:40,828 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 10:05:40,830 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 10:05:40,998 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 10:05:41,000 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:38:48,418 [INFO ][080-exec-7][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:38:48,482 [INFO ][080-exec-7][   model.DAO.UserDAO] - User admin is admin
+2017-01-11 11:38:48,630 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:38:48,631 [INFO ][080-exec-7][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-11 11:39:04,214 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 11:39:04,219 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 11:39:04,362 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:39:04,364 [INFO ][080-exec-9][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:40:46,181 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:40:46,231 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 11:40:46,232 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 11:40:46,390 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:40:59,231 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:44:09,284 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:44:09,324 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 11:44:09,325 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 11:44:09,458 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:44:09,459 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:45:43,387 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:45:43,422 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 11:45:43,423 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 11:45:43,623 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:45:43,623 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:46:48,663 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:46:48,710 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 11:46:48,712 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 11:46:48,929 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:46:48,931 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:55:36,278 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:55:36,313 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 11:55:36,314 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 11:55:36,446 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:55:36,447 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:56:09,207 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:56:09,246 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 11:56:09,247 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 11:56:09,383 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:56:09,384 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 11:57:56,441 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 11:57:56,480 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 11:57:56,482 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 11:57:56,703 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 11:57:56,704 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 12:13:41,435 [INFO ][080-exec-6][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 12:13:41,485 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 12:13:41,486 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 12:13:41,651 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 12:13:41,653 [INFO ][080-exec-6][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 12:28:38,470 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 12:28:38,517 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 12:28:38,518 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 12:28:38,681 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 12:28:38,682 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 15:11:57,016 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 15:11:57,021 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 15:11:57,023 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 15:11:57,024 [INFO ][080-exec-9][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 15:58:13,492 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 15:58:13,554 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 15:58:13,555 [INFO ][080-exec-4][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 15:58:13,692 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 15:58:13,693 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:01:21,740 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:01:21,777 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:01:21,779 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:01:21,915 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:01:21,916 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:01:58,972 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:01:58,976 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:01:58,977 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:01:58,978 [INFO ][080-exec-9][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:03:41,827 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:03:41,874 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:03:41,875 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:03:42,009 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:03:42,011 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:04:52,763 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:04:52,803 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:04:52,804 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:04:52,967 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:04:52,968 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:08:54,702 [ERROR][080-exec-7][model.dbcp.DBConnection] - База данных уже используется: null. Возможные решения: закрыть все другие соединения; использовать режим сервера
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]
+2017-01-11 16:08:54,712 [ERROR][080-exec-7][   model.DAO.UserDAO] - База данных уже используется: null. Возможные решения: закрыть все другие соединения; использовать режим сервера
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]
+2017-01-11 16:09:07,530 [ERROR][080-exec-8][model.dbcp.DBConnection] - База данных уже используется: null. Возможные решения: закрыть все другие соединения; использовать режим сервера
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]
+2017-01-11 16:09:07,532 [ERROR][080-exec-8][   model.DAO.UserDAO] - База данных уже используется: null. Возможные решения: закрыть все другие соединения; использовать режим сервера
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-193]
+2017-01-11 16:12:14,517 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:12:14,568 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:12:14,569 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:12:14,725 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:12:14,725 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:12:35,369 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 16:12:35,372 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 16:12:35,374 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:12:35,375 [INFO ][080-exec-7][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:13:22,823 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 16:13:22,825 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 16:13:22,826 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:13:22,827 [INFO ][080-exec-2][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:13:59,502 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 16:13:59,505 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 16:13:59,506 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:13:59,507 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:26:30,366 [INFO ][80-exec-10][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:26:30,411 [INFO ][80-exec-10][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 16:26:30,413 [INFO ][80-exec-10][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 16:26:30,644 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:26:30,644 [INFO ][80-exec-10][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:32:25,532 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:32:25,577 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:32:25,578 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:32:25,843 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:32:25,844 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:37:41,846 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:37:41,899 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:37:41,901 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:37:42,028 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:37:42,029 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:40:34,256 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:40:34,313 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:40:34,314 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:40:34,435 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:40:34,435 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:41:53,666 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:41:53,762 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:41:53,763 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:41:53,919 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:41:53,923 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:42:14,358 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:43:09,885 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:43:09,932 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:43:09,933 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:43:10,072 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:43:10,074 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:52:35,712 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 16:52:35,770 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 16:52:35,771 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 16:52:35,971 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:52:35,972 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 16:52:42,764 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:56:27,911 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 16:56:29,368 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:00:20,855 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:00:20,887 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is not admin
+2017-01-11 17:00:20,888 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr@petr.ru is already registered
+2017-01-11 17:00:21,048 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:00:21,049 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:00:23,484 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:01:06,967 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:01:06,969 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:01:06,970 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:01:06,972 [INFO ][080-exec-2][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:01:11,046 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:01:13,809 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:01:14,928 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:01:15,959 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:04:39,268 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:04:39,308 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is not admin
+2017-01-11 17:04:39,309 [INFO ][080-exec-5][   model.DAO.UserDAO] - User alex@russia.ru is already registered
+2017-01-11 17:04:39,479 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:04:39,484 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:04:41,556 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:04:42,686 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:04:43,673 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:04:44,237 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:09:50,653 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:09:50,686 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:09:50,687 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:09:50,804 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:09:50,805 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:09:57,320 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:10:02,822 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:10:04,515 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:10:06,059 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:11:50,993 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:11:51,045 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:11:51,048 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:11:51,280 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:11:51,282 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:12:24,009 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:12:24,074 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:12:24,075 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:12:24,191 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:12:24,192 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:23:42,376 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:23:42,437 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:23:42,438 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:23:42,631 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:23:42,632 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:26:06,180 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:26:06,215 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:26:06,216 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:26:06,328 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:26:06,328 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:28:03,486 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:28:03,519 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:28:03,520 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:28:03,744 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:28:03,745 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:29:39,980 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:29:40,015 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:29:40,016 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:29:40,184 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:29:40,185 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 17:32:38,281 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 17:32:38,318 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 17:32:38,319 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 17:32:38,456 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 17:32:38,457 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:09:26,121 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 18:09:26,160 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 18:09:26,165 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 18:09:26,283 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:09:26,283 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:10:13,021 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 18:10:13,024 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 18:10:13,026 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:10:13,026 [INFO ][080-exec-7][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:20:12,522 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:24:54,168 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 18:24:54,201 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:24:54,207 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 18:24:54,208 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 18:24:54,386 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:24:54,387 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:25:01,367 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:25:09,890 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:25:11,738 [INFO ][080-exec-7][   model.DAO.UserDAO] - 0
+2017-01-11 18:29:01,046 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 18:29:01,079 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:29:01,080 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:29:01,087 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 18:29:01,088 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 18:29:01,218 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:29:01,218 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:29:10,277 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:48:02,442 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 18:48:02,489 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:48:02,490 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:48:02,496 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 18:48:02,497 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 18:48:02,499 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 18:48:02,619 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 18:48:02,620 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 18:48:15,115 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-11 19:02:06,115 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 19:02:06,146 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:02:06,147 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:02:06,155 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 19:02:06,156 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 19:02:06,156 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:02:06,287 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:02:06,288 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 19:02:11,498 [INFO ][080-exec-6][   model.DAO.UserDAO] - 0
+2017-01-11 19:14:39,153 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 19:15:43,251 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:15:54,456 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:15:56,276 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 19:15:56,942 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 19:15:59,951 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:16:02,279 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:16:03,327 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 19:16:25,771 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-11 19:16:48,789 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 19:16:48,823 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:16:48,824 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:16:48,830 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 19:16:48,831 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 19:16:48,832 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 19:16:48,978 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:16:48,979 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 19:16:50,947 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-11 19:28:27,413 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 19:28:27,444 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:28:27,444 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:28:27,451 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 19:28:27,452 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 19:28:27,452 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:28:27,585 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:28:27,588 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 19:28:32,832 [INFO ][080-exec-6][   model.DAO.UserDAO] - 0
+2017-01-11 19:28:53,057 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:57:25,954 [INFO ][080-exec-5][model.dbcp.DBConnection] - DB connection pool started
+2017-01-11 19:57:25,985 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:57:25,986 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:57:25,992 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 19:57:25,993 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 19:57:25,993 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-11 19:57:26,134 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 19:57:26,134 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 19:57:27,842 [INFO ][080-exec-6][   model.DAO.UserDAO] - 0
+2017-01-11 19:57:38,564 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:08:55,916 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:08:55,920 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:08:55,926 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 20:08:55,927 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 20:08:55,928 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:08:56,066 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:08:56,069 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 20:08:58,091 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-11 20:09:03,031 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:06,659 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:07,208 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:07,422 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:07,641 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:07,862 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:08,058 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:08,304 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:12,472 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:14,609 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:09:15,837 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:19:36,703 [INFO ][080-exec-8][   model.DAO.UserDAO] - 0
+2017-01-11 20:21:20,206 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:21:23,685 [INFO ][080-exec-2][   model.DAO.UserDAO] - 0
+2017-01-11 20:22:08,661 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:24:45,300 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:24:49,564 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:24:51,786 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:24:53,510 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:32:20,070 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:32:21,786 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:32:22,745 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-11 20:32:22,746 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-11 20:32:23,379 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-11 20:32:24,354 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-11 20:32:24,355 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-11 22:59:53,466 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:09:37,949 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:09:37,955 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:09:37,961 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:09:37,962 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:09:37,963 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:09:38,078 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:09:38,079 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:15:12,021 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:15:12,026 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:15:12,033 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:15:12,034 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:15:12,035 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:15:12,173 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:15:12,174 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:22:15,475 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:15,480 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:15,486 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:22:15,487 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:22:15,488 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:15,627 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:22:15,627 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:22:17,602 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:22:45,378 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:45,383 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:45,393 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:22:45,394 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:22:45,395 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:22:45,524 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:22:45,524 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:28:45,909 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:29:42,377 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:29:42,383 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:29:42,392 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:29:42,393 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:29:42,394 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:29:42,528 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:29:42,529 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:31:31,940 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:34:19,561 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:34:19,566 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:34:19,575 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:34:19,576 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:34:19,577 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:34:19,692 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:34:19,693 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:35:36,625 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:35:59,971 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:35:59,977 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:35:59,985 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:35:59,986 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:35:59,987 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:36:00,118 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:36:00,119 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:38:59,203 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:52:39,711 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:52:39,716 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:52:39,725 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:52:39,726 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:52:39,727 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 09:53:03,354 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:53:06,257 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:53:40,735 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:55:41,981 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:55:41,985 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:55:41,992 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 09:55:41,993 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 09:55:41,994 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 09:55:42,138 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:55:42,142 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 09:55:44,019 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-12 09:55:57,439 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:00,485 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:01,165 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:02,163 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:03,035 [INFO ][80-exec-10][   model.DAO.UserDAO] - 0
+2017-01-12 09:56:22,268 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:26,871 [INFO ][080-exec-1][   model.DAO.UserDAO] - 0
+2017-01-12 09:56:38,114 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:40,407 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:41,965 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 09:56:43,495 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 10:02:04,877 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:02:04,884 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:02:04,892 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 10:02:04,893 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 10:02:04,894 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:02:18,172 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 10:02:18,176 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 10:02:33,428 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-12 10:04:49,570 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:04:49,576 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:04:49,585 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 10:04:49,586 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 10:04:49,587 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:05:06,313 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 10:05:06,316 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 10:05:18,968 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-12 10:24:22,930 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:24:22,938 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:24:22,946 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 10:24:22,946 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 10:24:22,948 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 10:24:23,072 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 10:24:23,074 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 11:29:41,658 [INFO ][080-exec-5][   model.DAO.UserDAO] - 0
+2017-01-12 15:06:24,083 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:06:24,089 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:06:24,096 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:06:24,097 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:06:24,098 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:06:24,212 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:06:24,214 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:06:25,856 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:10:11,187 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:10:11,193 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:10:11,202 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:10:11,202 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:10:11,204 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:10:11,356 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:10:11,357 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:15:59,881 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:20:35,297 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:20:35,303 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:20:35,311 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:20:35,311 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:20:35,313 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:20:35,316 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:20:35,443 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:20:35,444 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:20:37,124 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:20:40,711 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:20:42,050 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:20:43,164 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:21:42,313 [INFO ][080-exec-4][   model.DAO.UserDAO] - 4
+2017-01-12 15:21:42,319 [INFO ][080-exec-4][   model.DAO.UserDAO] - 4
+2017-01-12 15:21:42,327 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is not admin
+2017-01-12 15:21:42,328 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is already registered
+2017-01-12 15:21:42,329 [INFO ][080-exec-4][   model.DAO.UserDAO] - 4
+2017-01-12 15:21:42,333 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:21:42,452 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:21:42,453 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:21:44,241 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:23:13,815 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:23:13,821 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:23:13,828 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:23:13,829 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:23:13,830 [INFO ][080-exec-4][   model.DAO.UserDAO] - 12
+2017-01-12 15:23:13,833 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:23:13,955 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:23:13,956 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:23:17,471 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:23:19,186 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:23:19,881 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:23:20,867 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:30:43,862 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:30:43,869 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:30:43,876 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:30:43,877 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:30:43,878 [INFO ][080-exec-5][   model.DAO.UserDAO] - 12
+2017-01-12 15:30:43,887 [ERROR][080-exec-5][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:30:44,020 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:30:44,021 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:32:35,157 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:34:05,311 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:35:49,555 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:36:01,608 [INFO ][080-exec-9][   model.DAO.UserDAO] - 12
+2017-01-12 15:36:01,609 [INFO ][080-exec-9][   model.DAO.UserDAO] - 12
+2017-01-12 15:36:01,612 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:36:01,613 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:36:01,614 [INFO ][080-exec-9][   model.DAO.UserDAO] - 12
+2017-01-12 15:39:56,136 [ERROR][080-exec-9][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:39:56,140 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:39:56,142 [INFO ][080-exec-9][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:41:04,390 [INFO ][80-exec-10][   model.DAO.UserDAO] - 12
+2017-01-12 15:41:06,948 [INFO ][80-exec-10][   model.DAO.UserDAO] - 12
+2017-01-12 15:41:07,737 [INFO ][80-exec-10][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:41:07,740 [INFO ][80-exec-10][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:41:08,550 [INFO ][80-exec-10][   model.DAO.UserDAO] - 12
+2017-01-12 15:43:04,146 [ERROR][80-exec-10][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:43:04,154 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:43:04,154 [INFO ][80-exec-10][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:45:42,104 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:45:42,111 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:45:42,122 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:45:42,122 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:45:42,124 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:45:42,127 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 15:45:42,259 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:45:42,261 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:45:43,600 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:45:47,189 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:45:48,259 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:55:53,477 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:55:53,484 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:55:53,497 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 15:55:53,498 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 15:55:53,499 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 15:55:53,673 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:55:53,675 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:56:45,640 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:56:45,643 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:56:45,644 [INFO ][080-exec-6][   model.DAO.UserDAO] - User semen is not admin
+2017-01-12 15:56:45,645 [INFO ][080-exec-6][   model.DAO.UserDAO] - User semen is already registered
+2017-01-12 15:56:45,645 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:56:45,648 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:56:45,651 [INFO ][080-exec-6][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:57:41,020 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:57:41,023 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:57:41,024 [INFO ][080-exec-8][   model.DAO.UserDAO] - User semen is not admin
+2017-01-12 15:57:41,025 [INFO ][080-exec-8][   model.DAO.UserDAO] - User semen is already registered
+2017-01-12 15:57:41,026 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:57:41,029 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:57:41,030 [INFO ][080-exec-8][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:57:43,059 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:57:45,240 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:57:46,030 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:57:46,756 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:57:58,113 [INFO ][080-exec-3][   model.DAO.UserDAO] - id = 0
+2017-01-12 15:59:23,851 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:59:23,858 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:59:23,864 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is not admin
+2017-01-12 15:59:23,866 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is already registered
+2017-01-12 15:59:23,867 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-12 15:59:23,990 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:59:23,990 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 15:59:25,675 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 15:59:27,183 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 0
+2017-01-12 16:38:03,625 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 0
+2017-01-12 16:41:22,823 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:41:22,832 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:41:22,841 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 16:41:22,842 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 16:41:22,844 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:41:22,976 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:41:22,977 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 16:41:27,884 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:41:30,377 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:41:31,117 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:41:31,888 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:44:11,105 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:44:11,111 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:44:11,117 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 16:44:11,118 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 16:44:11,119 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:44:11,120 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 16:44:11,245 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:44:11,246 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 16:44:21,511 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 0
+2017-01-12 16:44:26,051 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:44:29,939 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:44:30,793 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:44:31,500 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:45:48,297 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:45:48,303 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:45:48,311 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 16:45:48,312 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 16:45:48,313 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:45:48,314 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 16:45:48,316 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 16:45:48,443 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:45:48,444 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 16:47:19,175 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:47:19,181 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:47:19,189 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 16:47:19,190 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 16:47:19,191 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 16:47:19,192 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 16:47:19,194 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 16:47:19,357 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 16:47:19,358 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 17:08:07,146 [INFO ][080-exec-6][   model.DAO.UserDAO] - User qwerty not yet registered
+2017-01-12 17:08:07,155 [INFO ][080-exec-6][   model.DAO.UserDAO] - user qwertywith password qwerty registered
+2017-01-12 17:08:07,276 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:08:07,277 [INFO ][080-exec-6][controller.Registration] - Registration servlet forwarded to products.jsp
+2017-01-12 17:08:07,277 [INFO ][080-exec-6][   model.DAO.UserDAO] - user qwertywith password qwerty registered
+2017-01-12 17:08:07,277 [INFO ][080-exec-6][controller.Registration] - User qwerty sucesfully registered
+2017-01-12 17:08:48,906 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 323
+2017-01-12 17:08:48,908 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 323
+2017-01-12 17:08:48,909 [INFO ][080-exec-8][   model.DAO.UserDAO] - User qwerty is not admin
+2017-01-12 17:08:48,910 [INFO ][080-exec-8][   model.DAO.UserDAO] - User qwerty is already registered
+2017-01-12 17:08:48,913 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 323
+2017-01-12 17:08:48,916 [INFO ][080-exec-8][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 17:08:48,921 [ERROR][080-exec-8][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 17:08:48,923 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:08:48,925 [INFO ][080-exec-8][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 17:08:54,249 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:08:57,689 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:08:58,581 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:08:59,768 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 17:09:01,847 [INFO ][080-exec-3][   model.DAO.UserDAO] - id = 0
+2017-01-12 17:09:43,194 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 0
+2017-01-12 17:09:47,052 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 0
+2017-01-12 18:21:25,026 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:21:25,031 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:21:25,039 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 18:21:25,039 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 18:21:25,041 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:21:25,046 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 18:25:22,252 [ERROR][080-exec-5][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 18:25:25,645 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 18:25:28,271 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 18:25:59,488 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:25:59,493 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:25:59,495 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 18:25:59,498 [INFO ][080-exec-6][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 18:25:59,500 [INFO ][080-exec-6][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:25:59,501 [INFO ][080-exec-6][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 18:25:59,502 [ERROR][080-exec-6][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 18:25:59,504 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 18:25:59,507 [INFO ][080-exec-6][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 18:26:21,993 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:26:22,000 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:26:22,009 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 18:26:22,010 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 18:26:22,011 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:26:22,017 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 18:28:47,743 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 18:28:47,934 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 18:28:47,935 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 18:32:11,027 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:32:11,032 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:32:11,041 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 18:32:11,042 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 18:32:11,043 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-12 18:32:11,048 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 19:00:56,090 [ERROR][080-exec-5][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-12 19:00:56,287 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-12 19:00:56,288 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-12 19:10:51,420 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 19:10:51,426 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 19:10:51,434 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-12 19:10:51,435 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-12 19:10:51,436 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-12 19:10:51,440 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-12 19:16:30,095 [ERROR][080-exec-4][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-13 07:00:21,053 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:00:21,058 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:00:21,066 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 07:00:21,205 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:00:21,206 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 07:01:48,308 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:01:48,312 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:01:48,319 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 07:01:48,441 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:01:48,441 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 07:02:03,299 [INFO ][080-exec-5][model.DAO.ProductDAO] - product qiviwith price 1000 added
+2017-01-13 07:02:03,303 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:02:03,303 [INFO ][080-exec-5][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 07:14:27,373 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:14:27,378 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:14:27,385 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 07:14:27,498 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:14:27,498 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 07:21:12,528 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:21:12,533 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:21:12,540 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 07:21:12,655 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:21:12,655 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 07:21:17,174 [ERROR][080-exec-5][model.DAO.ProductDAO] - Таблица "PRODUCT" не найдена
+Table "PRODUCT" not found; SQL statement:
+DELETE FROM PRODUCT WHERE ID = ? [42102-193]
+2017-01-13 07:21:17,177 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:21:17,177 [INFO ][080-exec-5][controller.Registration] - DeleteProduct servlet forwarded to admin.jsp
+2017-01-13 07:22:06,552 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:22:06,557 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 07:22:06,566 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 07:22:06,688 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:22:06,689 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 07:22:08,835 [INFO ][080-exec-5][model.DAO.ProductDAO] - product 65deleted from Products table
+2017-01-13 07:22:08,838 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:22:08,838 [INFO ][080-exec-5][controller.Registration] - DeleteProduct servlet forwarded to admin.jsp
+2017-01-13 07:22:32,720 [INFO ][080-exec-7][model.DAO.ProductDAO] - product qiviwith price 100 added
+2017-01-13 07:22:32,722 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:22:32,722 [INFO ][080-exec-7][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 07:23:05,551 [INFO ][080-exec-9][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:23:05,552 [INFO ][080-exec-9][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:23:05,553 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:23:05,553 [INFO ][080-exec-9][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:23:05,555 [INFO ][080-exec-9][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:23:05,557 [INFO ][080-exec-9][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:23:05,558 [ERROR][080-exec-9][  model.DAO.OrderDAO] - Значение NULL не разрешено для поля "ID"
+NULL not allowed for column "ID"; SQL statement:
+INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
+2017-01-13 07:23:05,676 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:23:05,678 [INFO ][080-exec-9][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:23:10,384 [INFO ][80-exec-10][   model.DAO.UserDAO] - id = 0
+2017-01-13 07:23:21,529 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 0
+2017-01-13 07:25:56,975 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:25:56,982 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:25:56,991 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:25:56,992 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:25:56,993 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:25:56,995 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:25:57,129 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:25:57,131 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:26:09,979 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:26:13,719 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:26:15,492 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:26:16,715 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 0
+2017-01-13 07:30:10,850 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:30:10,855 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:30:10,863 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:30:10,863 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:30:18,574 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:30:33,505 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:30:43,821 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:30:43,823 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:36:37,172 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 0
+2017-01-13 07:36:59,624 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:36:59,632 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:36:59,643 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:36:59,645 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:36:59,646 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:36:59,648 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:36:59,811 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:36:59,813 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:40:15,534 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:40:15,541 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:40:15,549 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:40:15,550 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:40:15,551 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:40:15,552 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:40:15,673 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:40:15,674 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:42:55,910 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:42:55,918 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:42:55,927 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:42:55,930 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:42:55,931 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:42:55,933 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:42:56,108 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:42:56,108 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:52:17,242 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:52:17,253 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:52:17,261 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:52:17,262 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:52:17,263 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:52:17,264 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:52:17,396 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:52:17,397 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:53:51,825 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:53:51,831 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:53:51,840 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:53:51,841 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:53:51,842 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:53:51,843 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:53:51,972 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:53:51,973 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 07:58:28,572 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:58:28,579 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:58:28,580 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:58:28,591 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 07:58:28,592 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 07:58:28,594 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 07:58:28,596 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 07:58:28,824 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 07:58:28,825 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 08:04:26,390 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:04:26,396 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:04:26,397 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:04:26,404 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 08:04:26,405 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 08:04:26,406 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:04:26,407 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 08:04:26,536 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:04:26,537 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 08:04:39,859 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:04:39,862 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:04:39,863 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:04:39,864 [INFO ][080-exec-5][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 08:04:39,991 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:04:39,992 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 08:04:42,689 [ERROR][080-exec-6][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:04:42,691 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:04:42,691 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:04:50,238 [ERROR][080-exec-7][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:04:50,240 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:04:50,240 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:12,960 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:06:12,967 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:06:12,968 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 2
+2017-01-13 08:06:12,977 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 08:06:13,095 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:13,096 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 08:06:15,568 [ERROR][080-exec-5][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:06:15,570 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:15,571 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:30,577 [INFO ][080-exec-6][model.DAO.ProductDAO] - product hrenwith price 100 added
+2017-01-13 08:06:30,579 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:30,579 [INFO ][080-exec-6][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 08:06:33,223 [INFO ][080-exec-7][model.DAO.ProductDAO] - product 129deleted from Products table
+2017-01-13 08:06:33,225 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:33,225 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:34,769 [ERROR][080-exec-8][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:06:34,772 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:34,772 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:36,359 [ERROR][080-exec-9][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (33)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (33)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:06:36,361 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:36,361 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:48,060 [INFO ][80-exec-10][model.DAO.ProductDAO] - product redkawith price 200 added
+2017-01-13 08:06:48,062 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:48,062 [INFO ][80-exec-10][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 08:06:51,046 [ERROR][080-exec-1][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:06:51,047 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:51,047 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:06:54,324 [INFO ][080-exec-2][model.DAO.ProductDAO] - product 130deleted from Products table
+2017-01-13 08:06:54,326 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:06:54,326 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:05,812 [ERROR][080-exec-3][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:07:05,815 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:05,815 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:21,120 [INFO ][080-exec-4][model.DAO.ProductDAO] - product rosewith price 1000 added
+2017-01-13 08:07:21,123 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:21,123 [INFO ][080-exec-4][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 08:07:39,739 [INFO ][080-exec-5][model.DAO.ProductDAO] - product applewith price 1000000 added
+2017-01-13 08:07:39,742 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:39,742 [INFO ][080-exec-5][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 08:07:43,080 [ERROR][080-exec-6][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (5)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (5)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:07:43,081 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:43,081 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:46,885 [ERROR][080-exec-7][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:07:46,886 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:46,887 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:48,313 [INFO ][080-exec-8][model.DAO.ProductDAO] - product 131deleted from Products table
+2017-01-13 08:07:48,316 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:48,316 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:49,559 [INFO ][080-exec-9][model.DAO.ProductDAO] - product 132deleted from Products table
+2017-01-13 08:07:49,560 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:49,560 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:07:50,852 [ERROR][80-exec-10][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:07:50,853 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:07:50,853 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:08:16,974 [ERROR][080-exec-2][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 08:08:16,978 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:08:16,978 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 08:10:55,587 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:10:55,589 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:10:55,590 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:10:55,591 [INFO ][080-exec-8][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 08:10:55,592 [INFO ][080-exec-8][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 08:10:55,593 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:10:55,595 [INFO ][080-exec-8][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 08:10:55,732 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:10:55,733 [INFO ][080-exec-8][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 08:14:02,251 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:14:02,257 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:14:02,257 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:14:02,265 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 08:14:02,266 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 08:14:02,268 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 08:14:02,269 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 08:14:02,394 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 08:14:02,398 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 09:46:57,109 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:46:57,116 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:46:57,118 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:46:57,129 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 09:46:57,130 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 09:46:57,132 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:46:57,133 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 09:46:57,276 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 09:46:57,278 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 09:47:02,207 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:05,014 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:06,451 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:11,542 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:13,337 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:14,411 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:47:16,288 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 09:49:08,523 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:49:08,529 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:49:08,530 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:49:08,540 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 09:49:08,540 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 09:49:08,541 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 09:49:08,542 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 09:49:08,678 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 09:49:08,679 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 09:59:32,128 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:00:01,074 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:00:01,080 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:00:01,081 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:00:01,090 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:00:01,091 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:00:01,092 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:00:01,094 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:00:01,238 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:00:01,239 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:03:35,212 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:03:42,232 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:04:09,517 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:04:09,522 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:04:09,522 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:04:09,529 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:04:09,530 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:04:09,531 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:04:09,532 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:04:09,648 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:04:09,649 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:04:15,988 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:04:17,413 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:08:56,717 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:08:56,725 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:08:56,725 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:08:56,736 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:08:56,737 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:08:56,738 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:08:56,739 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:08:56,904 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:08:56,905 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:11:45,964 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:12:11,727 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:12:11,734 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:12:11,735 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:12:11,744 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:12:11,745 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:12:11,746 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:12:11,747 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:12:11,896 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:12:11,897 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:41:45,000 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:45:18,930 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:45:40,205 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:45:40,210 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:45:40,211 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:45:40,220 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:45:40,221 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:45:40,222 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:45:40,223 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:45:40,364 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:45:40,365 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:46:25,324 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:48:27,752 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:48:27,757 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:48:27,758 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:48:27,765 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:48:27,765 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:48:27,766 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:48:27,767 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:48:27,893 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:48:27,895 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:48:32,511 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:48:48,580 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:49:46,075 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:49:46,080 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:49:46,080 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:49:46,090 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 10:49:46,090 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 10:49:46,092 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 10:49:46,093 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:49:46,258 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:49:46,259 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:50:03,715 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 10:50:55,015 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 10:50:55,021 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 10:50:55,022 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 10:50:55,029 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is not admin
+2017-01-13 10:50:55,030 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is already registered
+2017-01-13 10:50:55,031 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 10:50:55,032 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 10:50:55,203 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:50:55,204 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 10:50:59,475 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 10:57:08,489 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 2
+2017-01-13 10:57:08,492 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 2
+2017-01-13 10:57:08,493 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 2
+2017-01-13 10:57:08,493 [INFO ][080-exec-8][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 10:57:08,653 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:08,654 [INFO ][080-exec-8][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 10:57:13,616 [ERROR][080-exec-9][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 10:57:13,618 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:13,618 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:57:14,809 [ERROR][80-exec-10][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (33)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (33)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 10:57:14,811 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:14,811 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:57:16,506 [ERROR][080-exec-2][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (5)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (5)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 10:57:16,507 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:16,507 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:57:17,096 [ERROR][080-exec-1][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 10:57:17,098 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:17,098 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 10:57:17,810 [ERROR][080-exec-3][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 10:57:17,811 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 10:57:17,812 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:07:28,513 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:07:28,519 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:07:28,520 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:07:28,526 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:07:28,527 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:07:28,528 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:07:28,530 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:07:28,656 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:07:28,657 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:07:48,116 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:07:56,175 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:08,408 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:10,984 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:11,873 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:12,420 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:12,626 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:12,814 [INFO ][080-exec-4][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:12,996 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:13,172 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:13,361 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:13,543 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:09:13,755 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:10:07,612 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:10:11,823 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:10:26,306 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:10:26,307 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:10:26,308 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:10:26,308 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:10:26,309 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:10:26,310 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:10:26,310 [INFO ][080-exec-7][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:10:26,312 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:10:26,313 [INFO ][080-exec-7][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:15:42,873 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:15:42,885 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:15:42,886 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:15:42,894 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is not admin
+2017-01-13 11:15:42,895 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is already registered
+2017-01-13 11:15:42,896 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:15:42,897 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:15:43,064 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:15:43,066 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:18:44,992 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:18:44,996 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:18:44,997 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:18:45,003 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is not admin
+2017-01-13 11:18:45,005 [INFO ][080-exec-4][   model.DAO.UserDAO] - User semen is already registered
+2017-01-13 11:18:45,006 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 4
+2017-01-13 11:18:45,007 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:18:45,118 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:18:45,120 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:21:49,235 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:22:18,859 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:22:32,377 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 2
+2017-01-13 11:22:32,378 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 2
+2017-01-13 11:22:32,379 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 2
+2017-01-13 11:22:32,380 [INFO ][080-exec-2][   model.DAO.UserDAO] - User admin is admin
+2017-01-13 11:22:32,463 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:22:32,464 [INFO ][080-exec-2][controller.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-13 11:22:36,608 [ERROR][080-exec-3][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:22:36,610 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:22:36,610 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:22:55,250 [INFO ][080-exec-4][model.DAO.ProductDAO] - product mangowith price 567 added
+2017-01-13 11:22:55,251 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:22:55,252 [INFO ][080-exec-4][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 11:22:57,351 [INFO ][080-exec-5][model.DAO.ProductDAO] - product 161deleted from Products table
+2017-01-13 11:22:57,352 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:22:57,353 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:06,665 [ERROR][080-exec-6][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:06,668 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:06,668 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:07,226 [ERROR][080-exec-7][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:07,227 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:07,227 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:07,514 [ERROR][080-exec-8][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:07,515 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:07,515 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:08,236 [ERROR][080-exec-9][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:08,236 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:08,236 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:08,483 [ERROR][80-exec-10][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:08,484 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:08,484 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:08,705 [ERROR][080-exec-1][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (2)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:08,706 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:08,706 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:09,159 [ERROR][080-exec-2][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:09,160 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:09,160 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:09,353 [ERROR][080-exec-3][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:09,353 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:09,353 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:09,578 [ERROR][080-exec-4][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:09,579 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:09,579 [INFO ][080-exec-4][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:09,832 [ERROR][080-exec-5][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (1)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:09,832 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:09,833 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:11,817 [ERROR][080-exec-6][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:11,818 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:11,818 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:11,965 [ERROR][080-exec-7][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:11,966 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:11,966 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:12,147 [ERROR][080-exec-8][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:12,148 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:12,148 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:12,316 [ERROR][080-exec-9][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:12,317 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:12,317 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:12,494 [ERROR][80-exec-10][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:12,495 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:12,495 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:12,641 [ERROR][080-exec-1][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:12,643 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:12,643 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:21,927 [ERROR][080-exec-2][model.DAO.ProductDAO] - Нарушение ссылочной целостности: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"
+Referential integrity constraint violation: "CONSTRAINT_8B: PUBLIC.REL_ORDERS_PRODUCTS FOREIGN KEY(PRODUCT_ID) REFERENCES PUBLIC.PRODUCTS(ID) (97)"; SQL statement:
+DELETE FROM PRODUCTS WHERE ID = ? [23503-193]
+2017-01-13 11:23:21,929 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:21,929 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:32,814 [INFO ][080-exec-3][model.DAO.ProductDAO] - product saltwith price 10 added
+2017-01-13 11:23:32,816 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:32,816 [INFO ][080-exec-3][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 11:23:47,988 [INFO ][080-exec-4][model.DAO.ProductDAO] - product sugarwith price 100 added
+2017-01-13 11:23:47,989 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:47,990 [INFO ][080-exec-4][model.DAO.ProductDAO] - Admin servlet forwarded to admin.jsp
+2017-01-13 11:23:51,664 [INFO ][080-exec-5][model.DAO.ProductDAO] - product 162deleted from Products table
+2017-01-13 11:23:51,665 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:51,665 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:23:52,255 [INFO ][080-exec-6][model.DAO.ProductDAO] - product 163deleted from Products table
+2017-01-13 11:23:52,256 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:23:52,257 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to admin.jsp
+2017-01-13 11:31:20,490 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:20,496 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:20,497 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:20,503 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:31:20,504 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:31:20,505 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:20,507 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:31:20,614 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:31:20,615 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:31:26,530 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:31:28,587 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:31:38,590 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:38,591 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:38,593 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:38,594 [INFO ][080-exec-8][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:31:38,595 [INFO ][080-exec-8][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:31:38,596 [INFO ][080-exec-8][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:31:38,596 [INFO ][080-exec-8][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:31:38,598 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:31:38,599 [INFO ][080-exec-8][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:36:54,102 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:36:54,108 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:36:54,109 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:36:54,118 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:36:54,119 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:36:54,120 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:36:54,121 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:36:54,251 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:36:54,253 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:36:59,049 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:37:00,973 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:37:02,339 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 11:37:51,938 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:37:51,943 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:37:51,944 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:37:51,953 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:37:51,954 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:37:51,955 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:37:51,956 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:37:52,092 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:37:52,093 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:49:32,602 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:49:32,612 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:49:32,613 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:49:32,615 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:49:32,617 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:49:32,741 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:49:32,742 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:51:51,215 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-13 11:51:51,229 [INFO ][080-exec-4][   model.DAO.UserDAO] - User patr is not admin
+2017-01-13 11:51:51,229 [INFO ][080-exec-4][   model.DAO.UserDAO] - User patr not yet registered
+2017-01-13 11:51:51,324 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to login_failed.jsp
+2017-01-13 11:52:02,962 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:52:02,964 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:52:02,965 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:52:02,967 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:52:02,968 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:52:03,094 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:52:03,096 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:54:10,022 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:54:10,033 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:54:10,034 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:54:10,035 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:54:10,036 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:54:10,174 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:54:10,175 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:56:20,911 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:56:20,925 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 11:56:20,925 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 11:56:20,927 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 11:56:20,928 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 11:56:21,073 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:56:21,074 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 11:56:34,605 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:56:47,826 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 11:57:53,110 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:05:37,342 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:21,075 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:14:21,086 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 12:14:21,087 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 12:14:21,088 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:14:21,089 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 12:14:21,220 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:14:21,221 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 12:14:25,583 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:34,632 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:36,957 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:39,751 [INFO ][080-exec-9][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:44,055 [INFO ][80-exec-10][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:44,761 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:44,931 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:45,105 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:14:59,597 [INFO ][080-exec-4][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:15:47,211 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 4
+2017-01-13 12:15:47,212 [INFO ][080-exec-2][   model.DAO.UserDAO] - User semen is not admin
+2017-01-13 12:15:47,213 [INFO ][080-exec-2][   model.DAO.UserDAO] - User semen is already registered
+2017-01-13 12:15:47,213 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 4
+2017-01-13 12:15:47,213 [INFO ][080-exec-2][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 12:15:47,215 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:15:47,216 [INFO ][080-exec-2][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 12:15:50,607 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:16:07,669 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:23:37,280 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:23:37,300 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 12:23:37,301 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 12:23:37,303 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:23:37,307 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 12:23:37,494 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:23:37,498 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 12:36:27,333 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:39:25,426 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:39:25,436 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 12:39:25,436 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 12:39:25,437 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:39:25,439 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 12:39:25,549 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:39:25,550 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 12:39:34,903 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:39:39,402 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:39:46,021 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:39:46,791 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:39:54,486 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 12:42:51,577 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:42:51,591 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 12:42:51,592 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 12:42:51,593 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 12:42:51,595 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 12:42:51,738 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 12:42:51,740 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 12:45:37,424 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 16:32:22,889 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:32:22,904 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 16:32:22,905 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 16:32:22,907 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:32:22,908 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 16:32:23,030 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 16:32:23,032 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 16:32:29,019 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 16:37:51,718 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:37:51,719 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 16:37:51,719 [INFO ][080-exec-2][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 16:37:51,720 [INFO ][080-exec-2][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:37:51,720 [INFO ][080-exec-2][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 16:37:51,722 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 16:37:51,724 [INFO ][080-exec-2][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 16:55:19,911 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:55:19,922 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 16:55:19,923 [INFO ][080-exec-5][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 16:55:19,924 [INFO ][080-exec-5][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:55:19,925 [INFO ][080-exec-5][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 16:55:20,051 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 16:55:20,052 [INFO ][080-exec-5][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 16:55:24,430 [INFO ][080-exec-7][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 16:55:26,587 [INFO ][080-exec-8][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 16:56:14,001 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:56:14,022 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 16:56:14,023 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 16:56:14,025 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 12
+2017-01-13 16:56:14,029 [INFO ][080-exec-4][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 16:56:14,250 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 16:56:14,254 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 16:56:18,241 [INFO ][080-exec-6][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-13 17:17:21,105 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 17:17:21,116 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is not admin
+2017-01-13 17:17:21,117 [INFO ][080-exec-7][   model.DAO.UserDAO] - User petr is already registered
+2017-01-13 17:17:21,117 [INFO ][080-exec-7][   model.DAO.UserDAO] - id = 12
+2017-01-13 17:17:21,118 [INFO ][080-exec-7][  model.DAO.OrderDAO] - ORDER DAO ADD_ROW
+2017-01-13 17:17:21,243 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 17:17:21,245 [INFO ][080-exec-7][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-13 17:17:26,449 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-13 17:17:29,099 [INFO ][080-exec-2][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
