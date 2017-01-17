@@ -17,21 +17,21 @@ public class DBConnection {
 
     private static final Logger LOG = LoggerFactory.getLogger(ru.kkiselev.model.dbcp.DBConnection.class);
 
-//    private static void init() throws NamingException {
-//        try {
-//            InitialContext context = new InitialContext();
-//            source = (DataSource) context.lookup("java:comp/env/jdbc/grocery");
-//            LOG.info("DB connection pool started");
-//        } catch (NamingException e) {
-//            LOG.error(e.getExplanation());
-//            throw e;
-//        }
-//    }
-//
-//    public static Connection getConnection() throws SQLException, NamingException {
-//        if (source == null) {
-//            init();
-//        }
-//        return source.getConnection();
-//    }
+    private static void init() throws NamingException {
+        try {
+            InitialContext context = new InitialContext();
+            source = (DataSource) context.lookup("java:comp/env/jdbc/grocery");
+            LOG.info("DB connection pool started");
+        } catch (NamingException e) {
+            LOG.error(e.getExplanation());
+            throw e;
+        }
+    }
+
+    public static Connection getConnection() throws SQLException, NamingException {
+        if (source == null) {
+            init();
+        }
+        return source.getConnection();
+    }
 }

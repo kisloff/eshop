@@ -30,7 +30,7 @@ public class AddToChart extends HttpServlet {
 
         int userid = (Integer) session.getAttribute("user_id");
 
-        int orderid = OrderService.getOrderID(userid);
+        int orderid = userid;
 
         OrderProductService.insertProductToOrder(product_id, orderid);
 

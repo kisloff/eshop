@@ -3,8 +3,10 @@ package ru.kkiselev.model.DAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.POJO.Product;
-import ru.kkiselev.model.dbcp.DatabaseConnection;
+import ru.kkiselev.model.dbcp.DBConnection;
+import ru.kkiselev.model.dbcp.DbStarter;
 
+import javax.naming.NamingException;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +23,7 @@ public class ProductDAO implements DAO<Product> {
 
         List<Product> products = new ArrayList<>();
 
-        try(Connection connection = DatabaseConnection.getConnection();){
+        try{Connection connection = DBConnection.getConnection();
             Statement statement = connection.createStatement();
             ResultSet resultSet = statement.executeQuery(GET_ALL_PRODUCTS);
 
@@ -35,6 +37,8 @@ public class ProductDAO implements DAO<Product> {
 
         } catch (SQLException e) {
             e.printStackTrace();
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
 
         LOG.info("List of all products sent to service");
@@ -45,7 +49,7 @@ public class ProductDAO implements DAO<Product> {
     public void addRow(Product instance) {
         String ADD_USER = "INSERT INTO PRODUCTS (DESCRIPTION, PRICE) VALUES  (?, ?) ";
 
-        try (Connection connection = DatabaseConnection.getConnection();
+        try (Connection connection = DBConnection.getConnection();
              PreparedStatement statement = connection.prepareStatement(ADD_USER); ){
 
             statement.setString(1, instance.getDescription());
@@ -56,13 +60,15 @@ public class ProductDAO implements DAO<Product> {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
     }
 
     public void deleteRow(Product instance) {
         String DELETE_PRODUCT = "DELETE FROM PRODUCTS WHERE ID = ?";
 
-        try (Connection connection = DatabaseConnection.getConnection();
+        try (Connection connection = DBConnection.getConnection();
              PreparedStatement statement = connection.prepareStatement(DELETE_PRODUCT); ){
 
             statement.setInt(1, instance.getId());
@@ -72,6 +78,8 @@ public class ProductDAO implements DAO<Product> {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
     }
 

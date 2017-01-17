@@ -3,7 +3,8 @@ package ru.kkiselev.model.DAO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.POJO.User;
-import ru.kkiselev.model.dbcp.DatabaseConnection;
+import ru.kkiselev.model.dbcp.DBConnection;
+import ru.kkiselev.model.dbcp.DbStarter;
 
 import javax.naming.NamingException;
 import java.sql.*;
@@ -21,41 +22,52 @@ public class UserDAO implements DAO<User> {
         return null;
     }
 
-    public int getIdByEmail(String email){
+    public User getUserByEmail(String email){
         int id = 0;
 
-        String ID_BY_EMAIL = "SELECT id from USERS where email = '" + email + "'";
+        String ID_BY_EMAIL = "SELECT * from USERS where email = '" + email + "'";
 
-        try(Connection connection = DatabaseConnection.getConnection();
-            Statement statement = connection.createStatement();){
+        User user = new User();
+
+        try{Connection connection = DBConnection.getConnection();
+            Statement statement = connection.createStatement();
 
             ResultSet resultSet = statement.executeQuery(ID_BY_EMAIL);
 
-            while(resultSet.next())
-                id = resultSet.getInt(1);
+            while(resultSet.next()) {
+
+                user.setId(resultSet.getInt(1));
+                user.setEmail(resultSet.getString(2));
+                user.setPassword(resultSet.getString(3));
+                user.setAdmin(resultSet.getBoolean(4));
+            }
 
         } catch (SQLException e) {
             e.printStackTrace();
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
         LOG.info("id = "+id);
-        return id;
+        return user;
     }
 
     public void addRow(User instance) {
         String ADD_USER = "INSERT INTO USERS (EMAIL, PASSWORD, ISADMIN) VALUES  (?, ?, ?) ";
 
-        try (Connection connection = DatabaseConnection.getConnection();
-             PreparedStatement statement = connection.prepareStatement(ADD_USER); ){
+        try {Connection connection = DBConnection.getConnection();
+             PreparedStatement statement = connection.prepareStatement(ADD_USER);
 
-            statement.setString(1, instance.email);
-            statement.setString(2, instance.password);
-            statement.setBoolean(3, instance.isAdmin);
+            statement.setString(1, instance.getEmail());
+            statement.setString(2, instance.getPassword());
+            statement.setBoolean(3, instance.isAdmin());
 
             statement.execute();
-            LOG.info("user " + instance.email + "with password " + instance.password + " registered");
+            LOG.info("user " + instance.getEmail() + "with password " + instance.getPassword() + " registered");
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
 
     }
@@ -67,11 +79,11 @@ public class UserDAO implements DAO<User> {
 
         int count = 0;
 
-        try (Connection connection = DatabaseConnection.getConnection();
-             PreparedStatement statement = connection.prepareStatement(IS_REGISTERED);){
+        try {Connection connection = DBConnection.getConnection();
+             PreparedStatement statement = connection.prepareStatement(IS_REGISTERED);
 
-            statement.setString(1, instance.email);
-            statement.setString(2, instance.password);
+            statement.setString(1, instance.getEmail());
+            statement.setString(2, instance.getPassword());
 
             ResultSet resultSet = statement.executeQuery();
             resultSet.next();
@@ -79,13 +91,15 @@ public class UserDAO implements DAO<User> {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
 
         if(count > 0){
             isRegistered = true;
-            LOG.info("User " + instance.email + " is already registered");
+            LOG.info("User " + instance.getEmail() + " is already registered");
         } else {
-            LOG.info("User " + instance.email + " not yet registered");
+            LOG.info("User " + instance.getEmail() + " not yet registered");
         }
         return isRegistered;
     }
@@ -97,11 +111,11 @@ public class UserDAO implements DAO<User> {
 
         int count = 0;
 
-        try (Connection connection = DatabaseConnection.getConnection();
+        try {Connection connection = DBConnection.getConnection();
              PreparedStatement statement= connection.prepareStatement(IS_ADMIN);
-        ){
-            statement.setString(1, instance.email);
-            statement.setString(2, instance.password);
+
+            statement.setString(1, instance.getEmail());
+            statement.setString(2, instance.getPassword());
 
             ResultSet resultSet = statement.executeQuery();
             resultSet.next();
@@ -110,13 +124,15 @@ public class UserDAO implements DAO<User> {
         } catch (SQLException e) {
 
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
 
         if(count > 0){
             isAdmin = true;
-            LOG.info("User " + instance.email + " is admin");
+            LOG.info("User " + instance.getEmail() + " is admin");
         } else {
-            LOG.info("User " + instance.email + " is not admin");
+            LOG.info("User " + instance.getEmail() + " is not admin");
         }
         return isAdmin;
     }

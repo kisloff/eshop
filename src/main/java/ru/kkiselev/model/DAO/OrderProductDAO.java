@@ -4,8 +4,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.POJO.OrderProduct;
 import ru.kkiselev.model.POJO.Product;
-import ru.kkiselev.model.dbcp.DatabaseConnection;
+import ru.kkiselev.model.dbcp.DBConnection;
+import ru.kkiselev.model.dbcp.DbStarter;
 
+import javax.naming.NamingException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -32,8 +34,8 @@ public class OrderProductDAO  {
                 "op.order_id = o.id " +
                 "where o.user_id = ? ";
 
-        try(Connection connection = DatabaseConnection.getConnection();
-            PreparedStatement statement = connection.prepareStatement(SELECT_BASKET);){
+        try{Connection connection = DBConnection.getConnection();
+            PreparedStatement statement = connection.prepareStatement(SELECT_BASKET);
 
             statement.setInt(1, id);
             ResultSet resultSet = statement.executeQuery();
@@ -49,6 +51,8 @@ public class OrderProductDAO  {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
 
         return productList;
@@ -57,8 +61,8 @@ public class OrderProductDAO  {
     public void insertProductToOrder(int product_id, int order_id){
         String INSERT_PRODUCT_TO_ORDER = "INSERT INTO REL_ORDERS_PRODUCTS (PRODUCT_ID, ORDER_ID) VALUES (?, ?)";
 
-        try (Connection connection = DatabaseConnection.getConnection();
-             PreparedStatement statement = connection.prepareStatement(INSERT_PRODUCT_TO_ORDER); ){
+        try {Connection connection = DBConnection.getConnection();
+             PreparedStatement statement = connection.prepareStatement(INSERT_PRODUCT_TO_ORDER);
 
             statement.setInt(1, product_id);
             statement.setInt(2, order_id);
@@ -68,14 +72,16 @@ public class OrderProductDAO  {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
     }
 
 
     public void deleteProductFromOrder(OrderProduct instance){
-        String DELETE_FROM_ORDER = "Delete from Rel_orders_products where order_id = ? and product_id = ? ";
+        String DELETE_FROM_ORDER = "Delete from REL_ORDERS_PRODUCTS where ORDER_ID = ? and PRODUCT_ID = ? ";
 
-        try (Connection connection = DatabaseConnection.getConnection();){
+        try {Connection connection = DBConnection.getConnection();
             PreparedStatement statement = connection.prepareStatement(DELETE_FROM_ORDER);
             statement.setInt(1, instance.getOrderId());
             statement.setInt(2, instance.getProductId());
@@ -85,6 +91,8 @@ public class OrderProductDAO  {
 
         } catch (SQLException e) {
             LOG.error(e.getMessage());
+        } catch (NamingException e) {
+            e.printStackTrace();
         }
     }
 }

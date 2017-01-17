@@ -17,7 +17,7 @@
   Password:<input name="password" type="password" required>
   <input name="login" type="submit" value="login">
 </form>
-<form action="${pageContext.servletContext.contextPath}/registration.jsp" method="get">
+<form action="${pageContext.servletContext.contextPath}/registration" method="get">
   If you are not registered, please register
   <input name="register" type="submit" value="register">
 </form>

@@ -1,9 +1,7 @@
 package ru.kkiselev.controller;
 
-import org.h2.engine.Session;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.kkiselev.model.DAO.UserDAO;
 import ru.kkiselev.model.POJO.Order;
 import ru.kkiselev.model.POJO.User;
 import ru.kkiselev.model.service.OrderService;
@@ -25,19 +23,22 @@ public class LoginServlet extends HttpServlet{
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
         String email = req.getParameter("email");
         String password = req.getParameter("password");
 
-        User user = new User();
-        user.email = email;
-        user.password = password;
-
         UserService userService = new UserService();
+        User user = UserService.getUserByEmail(email);
+
+        if(user != null){
+
+        } else{
+
+        }
+
 
         HttpSession session = req.getSession();
-
-        session.setAttribute("user_id", UserService.getIdByEmail(email));
-        session.setAttribute("email", email);
+        session.setAttribute("user", UserService.getUserByEmail(email));
 
         if(userService.isAdminUser(user)){
             req.getRequestDispatcher("admin.jsp").forward(req, resp);
@@ -45,7 +46,7 @@ public class LoginServlet extends HttpServlet{
         } else if(userService.isRegistered(user)){
 
             Order order = new Order();
-            order.setUserId(UserService.getIdByEmail(email));
+            order.setUserId(UserService.getUserByEmail(email));
 
             OrderService orderService = new OrderService();
             orderService.addRow(order);

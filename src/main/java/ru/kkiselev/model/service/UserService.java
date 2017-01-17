@@ -38,8 +38,8 @@ public class UserService implements Service<User> {
 
     }
 
-    public static int getIdByEmail(String email){
-        return userDAO.getIdByEmail(email);
+    public static User getUserByEmail(String email){
+        return userDAO.getUserByEmail(email);
     }
 
     public boolean isRegistered(User instance){
