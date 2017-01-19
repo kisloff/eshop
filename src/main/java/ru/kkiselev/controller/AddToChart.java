@@ -4,6 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.DAO.OrderDAO;
 import ru.kkiselev.model.POJO.Order;
+import ru.kkiselev.model.POJO.User;
 import ru.kkiselev.model.service.OrderProductService;
 import ru.kkiselev.model.service.OrderService;
 import ru.kkiselev.model.service.UserService;
@@ -28,9 +29,12 @@ public class AddToChart extends HttpServlet {
 
         HttpSession session = req.getSession(false);
 
-        int userid = (Integer) session.getAttribute("user_id");
+        User user =  (User)req.getSession().getAttribute("user");
+        int user_id = user.getId();
 
-        int orderid = userid;
+       // int userid = (Integer) session.getAttribute("user_id");
+
+        int orderid = user_id;
 
         OrderProductService.insertProductToOrder(product_id, orderid);
 

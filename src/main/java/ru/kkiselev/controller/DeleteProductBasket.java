@@ -29,6 +29,7 @@ public class DeleteProductBasket extends HttpServlet {
 
         OrderProductService.deleteProductFromOrder(orderProduct);
 
+        //req.getRequestDispatcher("/basket").forward(req, resp);
         resp.sendRedirect("/basket");
 
         LOG.info("DeleteProductAdmin servlet forwarded to basket.jsp");

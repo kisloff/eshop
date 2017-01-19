@@ -26,13 +26,11 @@ public class OrderProductDAO  {
 
         List<Product> productList = new ArrayList<>();
 
-        String SELECT_BASKET = "Select p.description, p.price, op.product_id " +
+        String SELECT_BASKET = "Select p.description, p.price, p.id " +
                 "from REL_ORDERS_PRODUCTS op " +
                 "inner join Products p on " +
                 "op.product_id = p.id " +
-                "inner join Orders o on " +
-                "op.order_id = o.id " +
-                "where o.user_id = ? ";
+                "where op.order_id = ? ";
 
         try{Connection connection = DBConnection.getConnection();
             PreparedStatement statement = connection.prepareStatement(SELECT_BASKET);

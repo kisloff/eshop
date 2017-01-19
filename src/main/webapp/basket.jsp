@@ -2,6 +2,7 @@
 <%@ page import="ru.kkiselev.model.POJO.Product" %>
 <%@ page import="ru.kkiselev.model.service.UserService" %>
 <%@ page import="java.lang.*"%>
+<%@ page import="ru.kkiselev.model.POJO.User" %>
 <%--
   Created by IntelliJ IDEA.
   User: kv
@@ -26,7 +27,8 @@
     </thead>
 
     <%
-        int user_id =  (Integer)request.getSession().getAttribute("user_id");
+       User user =  (User)request.getSession().getAttribute("user");
+        int user_id = user.getId();
 
         for (Product product : OrderProductService.getAllFromBasket(user_id)){
     %>

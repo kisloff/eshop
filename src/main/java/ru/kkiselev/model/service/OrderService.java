@@ -21,7 +21,7 @@ public class OrderService implements Service<Order> {
 
     public void addRow(Order instance) {
         LOG.info("ORDER_SERVICE ADD ROW");
-        orderDAO.addRow(instance);
+        //orderDAO.addRow(instance);
         LOG.info("oreder for user id " + instance.getUserId() + "genereted" );
     }
 

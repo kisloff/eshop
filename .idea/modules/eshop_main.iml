@@ -11,6 +11,13 @@
         </webroots>
       </configuration>
     </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/../../src/main/webapp/WEB-INF/spring/security.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
     <facet type="web" name="Web Gradle : eshop-1.0-SNAPSHOT.war">
       <configuration>
         <descriptors>
@@ -19,13 +26,6 @@
         <webroots>
           <root url="file://$MODULE_DIR$/../../src/main/webapp" relative="/" />
         </webroots>
-      </configuration>
-    </facet>
-    <facet type="Spring" name="Spring">
-      <configuration>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/../../src/main/webapp/WEB-INF/spring/security.xml</file>
-        </fileset>
       </configuration>
     </facet>
   </component>

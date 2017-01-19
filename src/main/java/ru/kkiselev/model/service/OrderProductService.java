@@ -14,7 +14,6 @@ public class OrderProductService {
     static OrderProductDAO orderProductDAO = new OrderProductDAO();
 
     public static List<Product> getAllFromBasket(int userId){
-
         return orderProductDAO.getAll(userId);
     }
 

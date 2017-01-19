@@ -45,11 +45,11 @@ public class LoginServlet extends HttpServlet{
             LOG.info("Login servlet forwarded to admin.jsp");
         } else if(userService.isRegistered(user)){
 
-            Order order = new Order();
-            order.setUserId(UserService.getUserByEmail(email));
+            //Order order = new Order();
+            //order.setUserId(UserService.getUserByEmail(email).getId());
 
-            OrderService orderService = new OrderService();
-            orderService.addRow(order);
+            //OrderService orderService = new OrderService();
+            //orderService.addRow(order);
 
             req.getRequestDispatcher("products.jsp").forward(req, resp);
             LOG.info("Login servlet forwarded to products.jsp");

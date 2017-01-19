@@ -28,15 +28,15 @@ public class OrderDAO implements DAO<Order> {
 
     public void addRow(Order instance) {
         LOG.info("ORDER DAO ADD_ROW");
-        String ADD_ORDER = "INSERT INTO ORDERS (USER_ID, id) VALUES (?, ?) ";
+        String ADD_ORDER = "INSERT INTO ORDERS (USER_ID) VALUES (?) ";
 
         try {Connection conn = DBConnection.getConnection();
 
-            Random random = new Random();
+            //Random random = new Random();
 
             PreparedStatement statement = conn.prepareStatement(ADD_ORDER);
             statement.setInt(1, instance.getUserId());
-            statement.setInt(2, instance.getUserId());
+            //statement.setInt(2, instance.getUserId());
 
             statement.execute();
 

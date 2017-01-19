@@ -22,6 +22,7 @@ public class DBConnection {
             InitialContext context = new InitialContext();
             source = (DataSource) context.lookup("java:comp/env/jdbc/grocery");
             LOG.info("DB connection pool started");
+
         } catch (NamingException e) {
             LOG.error(e.getExplanation());
             throw e;
