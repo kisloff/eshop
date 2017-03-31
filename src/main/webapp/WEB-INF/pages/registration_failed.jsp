@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<form action="${pageContext.servletContext.contextPath}/registration.jsp" method="get">
+<form action="${pageContext.servletContext.contextPath}/WEB-INF/pages/registration.jsp" method="get">
     Registration failed! Please try again!
     ${request.getAttribute("error")}
     <input name="registration_failed" type="submit" value="to registration">

@@ -1,10 +1,10 @@
-package ru.kkiselev.controller;
+package ru.kkiselev.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.DAO.UserDAO;
 import ru.kkiselev.model.POJO.User;
-import ru.kkiselev.model.service.UserService;
+import ru.kkiselev.model.service.UserServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -33,7 +33,7 @@ public class Registration  extends HttpServlet{
 
         UserDAO ud = new UserDAO();
 
-        UserService userService = new UserService();
+        UserServiceImpl userService = new UserServiceImpl();
 
         if(!password.equals(confirmPassword)){
             req.getRequestDispatcher("registration_failed.jsp").forward(req, resp);
@@ -49,7 +49,7 @@ public class Registration  extends HttpServlet{
             LOG.info("Registration servlet forwarded to products.jsp");
         }
 
-        userService.addRow(user);
+        userService.addUser(user);
         LOG.info("User " + user.email + " sucesfully registered");
     }
 }

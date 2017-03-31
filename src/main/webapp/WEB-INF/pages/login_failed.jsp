@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<form action="${pageContext.servletContext.contextPath}/login.jsp" method="get">
+<form action="${pageContext.servletContext.contextPath}/WEB-INF/pages/login.jsp" method="get">
     There is no such user
     Please try to login again!
     <input name="login" type="submit" value="login">

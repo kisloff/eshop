@@ -1,6 +1,6 @@
 
 <%@ page import="ru.kkiselev.model.POJO.Product" %>
-<%@ page import="ru.kkiselev.model.service.ProductService" %><%--
+<%@ page import="ru.kkiselev.model.service.ProductServiceImpl" %><%--
   Created by IntelliJ IDEA.
   User: kv
   Date: 04.01.17
@@ -24,8 +24,8 @@
     </thead>
 
     <%
-        ProductService productService = new ProductService();
-        for (Product product :productService.getAll()){
+        ProductServiceImpl productService = new ProductServiceImpl();
+        for (Product product :productService.getAllProducts()){
     %>
 
     <tr>
@@ -41,10 +41,10 @@
 
 </table>
 
-<form action="${pageContext.servletContext.contextPath}/basket.jsp" method="post">
+<form action="${pageContext.servletContext.contextPath}/WEB-INF/pages/basket.jsp" method="post">
     <input class="button" type="submit" value="Перейти в корзину">
 </form>
-<form action="${pageContext.servletContext.contextPath}/login.jsp" method="post">
+<form action="${pageContext.servletContext.contextPath}/WEB-INF/pages/login.jsp" method="post">
     <input class="button" type="submit" value="Разлогиниться">
 </form>
 

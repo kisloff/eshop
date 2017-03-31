@@ -1,11 +1,9 @@
-package ru.kkiselev.controller;
+package ru.kkiselev.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.kkiselev.model.POJO.Order;
 import ru.kkiselev.model.POJO.User;
-import ru.kkiselev.model.service.OrderService;
-import ru.kkiselev.model.service.UserService;
+import ru.kkiselev.model.service.UserServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -27,18 +25,11 @@ public class LoginServlet extends HttpServlet{
         String email = req.getParameter("email");
         String password = req.getParameter("password");
 
-        UserService userService = new UserService();
-        User user = UserService.getUserByEmail(email);
-
-        if(user != null){
-
-        } else{
-
-        }
-
+        UserServiceImpl userService = new UserServiceImpl();
+        User user = userService.getUserByEmail(email);
 
         HttpSession session = req.getSession();
-        session.setAttribute("user", UserService.getUserByEmail(email));
+        session.setAttribute("user", userService.getUserByEmail(email));
 
         if(userService.isAdminUser(user)){
             req.getRequestDispatcher("admin.jsp").forward(req, resp);
@@ -49,7 +40,7 @@ public class LoginServlet extends HttpServlet{
             //order.setUserId(UserService.getUserByEmail(email).getId());
 
             //OrderService orderService = new OrderService();
-            //orderService.addRow(order);
+            //orderService.addUser(order);
 
             req.getRequestDispatcher("products.jsp").forward(req, resp);
             LOG.info("Login servlet forwarded to products.jsp");

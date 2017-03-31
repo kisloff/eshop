@@ -2,6 +2,7 @@ package ru.kkiselev.model.DAO;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 import ru.kkiselev.model.POJO.OrderProduct;
 import ru.kkiselev.model.POJO.Product;
 import ru.kkiselev.model.dbcp.DBConnection;
@@ -18,6 +19,8 @@ import java.util.List;
 /**
  * Created by kv on 07.01.17.
  */
+
+@Repository
 public class OrderProductDAO  {
 
     private static final Logger LOG = LoggerFactory.getLogger(OrderProductDAO.class);
@@ -74,7 +77,6 @@ public class OrderProductDAO  {
             e.printStackTrace();
         }
     }
-
 
     public void deleteProductFromOrder(OrderProduct instance){
         String DELETE_FROM_ORDER = "Delete from REL_ORDERS_PRODUCTS where ORDER_ID = ? and PRODUCT_ID = ? ";

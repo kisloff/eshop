@@ -1,10 +1,10 @@
-package ru.kkiselev.controller;
+package ru.kkiselev.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.DAO.ProductDAO;
 import ru.kkiselev.model.POJO.Product;
-import ru.kkiselev.model.service.ProductService;
+import ru.kkiselev.model.service.ProductServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -26,10 +26,19 @@ public class Administration extends HttpServlet {
 
         Product product = new Product(description, price);
 
-        ProductService productService = new ProductService();
-        productService.addRow(product);
+        ProductServiceImpl productService = new ProductServiceImpl();
+        productService.addProduct(product);
 
         req.getRequestDispatcher("admin.jsp").forward(req, resp);
         LOG.info("Admin servlet forwarded to admin.jsp");
+
+
+        int i = 012;
+
+        final long Byte = 0;
+
+        Boolean b = true;
+
+
     }
 }

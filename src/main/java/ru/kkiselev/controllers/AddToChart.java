@@ -1,13 +1,10 @@
-package ru.kkiselev.controller;
+package ru.kkiselev.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.kkiselev.model.DAO.OrderDAO;
-import ru.kkiselev.model.POJO.Order;
+import org.springframework.stereotype.Controller;
 import ru.kkiselev.model.POJO.User;
-import ru.kkiselev.model.service.OrderProductService;
-import ru.kkiselev.model.service.OrderService;
-import ru.kkiselev.model.service.UserService;
+import ru.kkiselev.model.service.OrderProductServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -19,6 +16,8 @@ import java.io.IOException;
 /**
  * Created by kv on 07.01.17.
  */
+
+@Controller
 public class AddToChart extends HttpServlet {
 
     private static final Logger LOG = LoggerFactory.getLogger(AddToChart.class);
@@ -36,7 +35,8 @@ public class AddToChart extends HttpServlet {
 
         int orderid = user_id;
 
-        OrderProductService.insertProductToOrder(product_id, orderid);
+        OrderProductServiceImpl orderProductService = new OrderProductServiceImpl();
+        orderProductService.insertProductToOrder(product_id, orderid);
 
         LOG.info("user id " + product_id + "made an order");
 

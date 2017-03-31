@@ -1,6 +1,6 @@
-<%@ page import="ru.kkiselev.model.service.OrderProductService" %>
+<%@ page import="ru.kkiselev.model.service.OrderProductServiceImpl" %>
 <%@ page import="ru.kkiselev.model.POJO.Product" %>
-<%@ page import="ru.kkiselev.model.service.UserService" %>
+<%@ page import="ru.kkiselev.model.service.UserServiceImpl" %>
 <%@ page import="java.lang.*"%>
 <%@ page import="ru.kkiselev.model.POJO.User" %>
 <%--
@@ -29,8 +29,9 @@
     <%
        User user =  (User)request.getSession().getAttribute("user");
         int user_id = user.getId();
+        OrderProductServiceImpl orderProductService = new OrderProductServiceImpl();
 
-        for (Product product : OrderProductService.getAllFromBasket(user_id)){
+        for (Product product : orderProductService.getAllFromBasket(user_id)){
     %>
 
     <tr>

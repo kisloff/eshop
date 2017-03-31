@@ -23,7 +23,6 @@ public class ShopFilter implements Filter{
 
     static {
         adminList.add("/admin.jsp");
-
         userList.add("/products.jsp");
     }
 

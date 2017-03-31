@@ -9,5 +9,4 @@ public interface DAO <T>{
     List<T> getAll ();
     void addRow(T instance);
     void deleteRow(T instance);
-    void updateRow(T instance);
 }

@@ -2150,3 +2150,130 @@ INSERT INTO ORDERS (USER_ID) VALUES (?)  [23502-193]
 2017-01-19 12:31:05,709 [INFO ][080-exec-1][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
 2017-01-19 12:31:06,345 [INFO ][080-exec-3][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
 2017-01-19 12:31:06,880 [INFO ][080-exec-5][controller.Registration] - DeleteProductAdmin servlet forwarded to basket.jsp
+2017-01-19 18:23:24,222 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-19 18:23:24,257 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-19 18:23:24,258 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-19 18:23:24,267 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-19 18:23:24,268 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-19 18:23:24,441 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-19 18:23:24,442 [INFO ][080-exec-4][controller.LoginServlet] - Login servlet forwarded to products.jsp
+2017-01-20 09:57:05,748 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 09:57:05,770 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 09:57:05,773 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 09:57:05,779 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-20 09:57:05,780 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-20 10:18:03,330 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 10:18:03,353 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 10:18:03,355 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 10:18:03,363 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is not admin
+2017-01-20 10:18:03,364 [INFO ][080-exec-4][   model.DAO.UserDAO] - User petr is already registered
+2017-01-20 11:37:40,025 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 11:37:40,060 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:37:40,062 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:37:40,073 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-20 11:37:40,194 [INFO ][080-exec-4][controllers.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-20 11:39:21,646 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 11:39:21,679 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:39:21,681 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:39:21,693 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-20 11:39:21,820 [INFO ][080-exec-4][controllers.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-20 11:41:49,014 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 11:41:49,050 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:41:49,053 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:41:49,061 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-20 11:41:49,217 [INFO ][080-exec-4][controllers.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-20 11:49:11,421 [INFO ][080-exec-4][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 11:49:11,465 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:49:11,466 [INFO ][080-exec-4][   model.DAO.UserDAO] - id = 0
+2017-01-20 11:49:11,473 [INFO ][080-exec-4][   model.DAO.UserDAO] - User admin is admin
+2017-01-20 11:49:11,776 [INFO ][080-exec-4][controllers.LoginServlet] - Login servlet forwarded to admin.jsp
+2017-01-20 11:59:12,938 [INFO ][080-exec-7][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 11:59:12,961 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 11:59:13,365 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:03:44,014 [INFO ][080-exec-2][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:03:44,035 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:03:44,507 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:09:03,844 [INFO ][080-exec-8][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:09:03,866 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:09:04,248 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:10:18,905 [INFO ][080-exec-8][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:10:18,930 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:10:19,266 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:11:19,207 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:11:19,238 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:11:20,997 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:25:30,136 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:25:30,161 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:25:31,695 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:27:44,646 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:27:44,673 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:27:46,383 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:27:47,990 [INFO ][080-exec-5][model.DAO.ProductDAO] - product 193deleted from Products table
+2017-01-20 12:27:53,342 [INFO ][080-exec-6][model.DAO.ProductDAO] - product 193deleted from Products table
+2017-01-20 12:28:02,127 [INFO ][080-exec-7][model.DAO.ProductDAO] - product 193deleted from Products table
+2017-01-20 12:29:10,668 [INFO ][080-exec-9][model.DAO.ProductDAO] - product 1deleted from Products table
+2017-01-20 12:31:33,278 [INFO ][080-exec-1][model.DAO.ProductDAO] - product 1deleted from Products table
+2017-01-20 12:32:13,129 [INFO ][080-exec-3][model.DAO.ProductDAO] - product 1deleted from Products table
+2017-01-20 12:33:16,081 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:33:29,940 [INFO ][080-exec-2][model.DAO.ProductDAO] - product 33deleted from Products table
+2017-01-20 12:34:20,063 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:35:06,745 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 12:35:06,781 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:35:08,160 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:35:11,553 [INFO ][080-exec-4][model.DAO.ProductDAO] - product 5deleted from Products table
+2017-01-20 12:35:11,574 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 12:35:15,087 [INFO ][080-exec-6][model.DAO.ProductDAO] - product 2deleted from Products table
+2017-01-20 12:35:15,092 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 16:37:12,326 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 16:37:12,359 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 16:37:14,343 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 16:37:24,784 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:10:05,413 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:10:06,320 [INFO ][80-exec-10][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:10:11,380 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:19:43,864 [INFO ][080-exec-4][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:19:56,434 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:23:50,572 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 17:23:50,600 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:23:52,193 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:24:01,743 [INFO ][080-exec-4][model.DAO.ProductDAO] - product tomatowith price 1000 added
+2017-01-20 17:24:01,754 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:24:10,876 [INFO ][080-exec-6][model.DAO.ProductDAO] - product goosewith price 2500 added
+2017-01-20 17:24:10,882 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:24:13,050 [INFO ][080-exec-8][model.DAO.ProductDAO] - product 257deleted from Products table
+2017-01-20 17:24:13,056 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:24:13,772 [INFO ][80-exec-10][model.DAO.ProductDAO] - product 258deleted from Products table
+2017-01-20 17:24:13,778 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:24:22,325 [INFO ][080-exec-1][model.DAO.ProductDAO] - product weedwith price 1000 added
+2017-01-20 17:24:22,330 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:26:10,321 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 17:26:10,368 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:26:11,746 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:26:25,999 [INFO ][080-exec-4][model.DAO.ProductDAO] - product vinegarwith price 100 added
+2017-01-20 17:26:26,013 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:27:36,347 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 17:27:36,376 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:27:38,046 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:27:48,109 [INFO ][080-exec-4][model.DAO.ProductDAO] - product cocoawith price 1000 added
+2017-01-20 17:27:48,122 [INFO ][080-exec-5][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:27:50,725 [INFO ][080-exec-6][model.DAO.ProductDAO] - product 257deleted from Products table
+2017-01-20 17:27:50,730 [INFO ][080-exec-7][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:27:58,457 [INFO ][080-exec-8][model.DAO.ProductDAO] - product nutswith price 100 added
+2017-01-20 17:27:58,464 [INFO ][080-exec-9][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:28:00,022 [INFO ][80-exec-10][model.DAO.ProductDAO] - product 289deleted from Products table
+2017-01-20 17:28:00,027 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:28:01,167 [INFO ][080-exec-2][model.DAO.ProductDAO] - product 290deleted from Products table
+2017-01-20 17:28:01,174 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:28:13,882 [INFO ][080-exec-5][model.DAO.ProductDAO] - product asaswith price 100 added
+2017-01-20 17:28:13,891 [INFO ][080-exec-6][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:28:24,152 [INFO ][080-exec-7][model.DAO.ProductDAO] - product 291deleted from Products table
+2017-01-20 17:28:24,157 [INFO ][080-exec-8][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:32:03,338 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 17:32:03,366 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:32:04,538 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:49:33,653 [INFO ][080-exec-1][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 17:49:33,693 [INFO ][080-exec-1][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 17:49:35,699 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 18:11:36,082 [INFO ][080-exec-2][model.dbcp.DBConnection] - DB connection pool started
+2017-01-20 18:11:36,104 [INFO ][080-exec-2][model.DAO.ProductDAO] - List of all products sent to service
+2017-01-20 18:11:37,466 [INFO ][080-exec-3][model.DAO.ProductDAO] - List of all products sent to service

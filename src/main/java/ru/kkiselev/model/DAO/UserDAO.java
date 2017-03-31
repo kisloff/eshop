@@ -2,6 +2,7 @@ package ru.kkiselev.model.DAO;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 import ru.kkiselev.model.POJO.User;
 import ru.kkiselev.model.dbcp.DBConnection;
 import ru.kkiselev.model.dbcp.DbStarter;
@@ -13,6 +14,8 @@ import java.util.List;
 /**
  * Created by kv on 04.01.17.
  */
+
+@Repository
 public class UserDAO implements DAO<User> {
 
     private static final Logger LOG = LoggerFactory.getLogger(UserDAO.class);
@@ -139,9 +142,5 @@ public class UserDAO implements DAO<User> {
 
     public void deleteRow(User instance) {
         //no deletion required
-    }
-
-    public void updateRow(User instance) {
-        //no update required
     }
 }

@@ -2,6 +2,7 @@ package ru.kkiselev.model.DAO;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Repository;
 import ru.kkiselev.model.POJO.Product;
 import ru.kkiselev.model.dbcp.DBConnection;
 import ru.kkiselev.model.dbcp.DbStarter;
@@ -14,6 +15,8 @@ import java.util.List;
 /**
  * Created by kv on 04.01.17.
  */
+
+@Repository
 public class ProductDAO implements DAO<Product> {
 
     private static final Logger LOG = LoggerFactory.getLogger(ProductDAO.class);
@@ -83,8 +86,4 @@ public class ProductDAO implements DAO<Product> {
         }
     }
 
-
-    public void updateRow(Product instance) {
-
-    }
 }

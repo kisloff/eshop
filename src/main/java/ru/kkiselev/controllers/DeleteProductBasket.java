@@ -1,9 +1,9 @@
-package ru.kkiselev.controller;
+package ru.kkiselev.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.kkiselev.model.POJO.OrderProduct;
-import ru.kkiselev.model.service.OrderProductService;
+import ru.kkiselev.model.service.OrderProductServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -26,8 +26,8 @@ public class DeleteProductBasket extends HttpServlet {
         OrderProduct orderProduct = new OrderProduct();
         orderProduct.setOrderId(order_id);
         orderProduct.setProductId(product_id);
-
-        OrderProductService.deleteProductFromOrder(orderProduct);
+        OrderProductServiceImpl orderProductService = new OrderProductServiceImpl();
+        orderProductService.deleteProductFromOrder(orderProduct);
 
         //req.getRequestDispatcher("/basket").forward(req, resp);
         resp.sendRedirect("/basket");
